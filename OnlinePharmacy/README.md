@@ -15,3 +15,4 @@ A sample project for the ASE Lab experiment on GitFlow and merge conflicts.
 
 - Search medicines by name
 - View medicine prices
+  Medicine delivery: Express delivery
