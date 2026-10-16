@@ -1,0 +1,4 @@
+Medicine Name | Price
+Paracetamol | 20
+Cetirizine | 15
+Vitamin C | 30
