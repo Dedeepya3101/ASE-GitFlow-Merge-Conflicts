@@ -8,3 +8,5 @@ A sample project for the ASE Lab experiment on GitFlow and merge conflicts.
 - Search medicines by name
 - Check medicine prices
 - Manage medicine delivery options
+
+git - merge conflic resolved
